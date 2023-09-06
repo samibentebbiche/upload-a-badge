@@ -1,9 +1,6 @@
 # upload-a-badge
 
-This is the code to upload a circle badge with a size of 512*512.
-And verify that the only non-transparent pixels are within a circle and the colors of the badge give a "happy" feeling.
-I worked simple , i give the images with more yellow pixel and with hight intensity as a happy pictures.
-ther is two file .
+This is the code for uploading a circular badge with a size of 512x512 pixels. It also verifies that the only non-transparent pixels are within the circular region, and the badge's colors evoke a 'happy' feeling. The process is simple; I classify images with more yellow pixels and higher intensity as happy pictures. There are two files involved.
 ## requirement 
 - python3.
 - PIL
